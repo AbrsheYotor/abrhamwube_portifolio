@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abrhamwube_portifolio/static/css/main.9d070a92.css",
+    "main.js": "/abrhamwube_portifolio/static/js/main.dc0ab6cc.js",
+    "static/js/496.6617f84f.chunk.js": "/abrhamwube_portifolio/static/js/496.6617f84f.chunk.js",
+    "static/media/abrshewube.png": "/abrhamwube_portifolio/static/media/abrshewube.fc0d1a8956698d34e0c1.png",
+    "static/media/chuchu2.jpg": "/abrhamwube_portifolio/static/media/chuchu2.72cd56d79fb10471d168.jpg",
+    "static/media/fitness.png": "/abrhamwube_portifolio/static/media/fitness.d660f2fce292e0d1a688.png",
+    "static/media/archees.jpg": "/abrhamwube_portifolio/static/media/archees.faa312ec323e602acf61.jpg",
+    "static/media/mycv.pdf": "/abrhamwube_portifolio/static/media/mycv.cc8d18846f139776f233.pdf",
+    "static/media/chuchu.jpg": "/abrhamwube_portifolio/static/media/chuchu.17022fb90afaa76d440c.jpg",
+    "static/media/abrsheyotor.png": "/abrhamwube_portifolio/static/media/abrsheyotor.8e19fd919a0c8035310b.png",
+    "static/media/tom.jpg": "/abrhamwube_portifolio/static/media/tom.d6b1c527935c380fcaec.jpg",
+    "index.html": "/abrhamwube_portifolio/index.html",
+    "main.9d070a92.css.map": "/abrhamwube_portifolio/static/css/main.9d070a92.css.map",
+    "main.dc0ab6cc.js.map": "/abrhamwube_portifolio/static/js/main.dc0ab6cc.js.map",
+    "496.6617f84f.chunk.js.map": "/abrhamwube_portifolio/static/js/496.6617f84f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d070a92.css",
+    "static/js/main.dc0ab6cc.js"
+  ]
+}
